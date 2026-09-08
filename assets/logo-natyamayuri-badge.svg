@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" role="img" aria-label="Natyamayuri badge">
+  <defs>
+    <radialGradient id="g2" cx="0.35" cy="0.35" r="0.9">
+      <stop offset="0" stop-color="#fff1d6"/>
+      <stop offset="1" stop-color="#ffd166"/>
+    </radialGradient>
+  </defs>
+
+  <circle cx="100" cy="100" r="96" fill="#1e73a6" />
+  <path d="M60 110 C80 40,140 40,150 110 C140 170,80 170,60 110 Z"
+        fill="url(#g2)" stroke="#0b6b63" stroke-width="2"/>
+  <!-- stylized initials -->
+  <text x="100" y="120" text-anchor="middle" font-family="Georgia, 'Noto Serif', serif"
+        font-size="48" fill="#082a2b" font-weight="700">NM</text>
+</svg>

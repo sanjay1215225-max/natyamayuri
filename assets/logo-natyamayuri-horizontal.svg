@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 160" width="600" height="160" role="img" aria-label="natyamayuri.com logo">
+  <defs>
+    <linearGradient id="grad-feather" x1="0" x2="1">
+      <stop offset="0" stop-color="#0f9b8e"/>
+      <stop offset="1" stop-color="#1e73a6"/>
+    </linearGradient>
+  </defs>
+
+  <!-- stylized peacock-feather emblem -->
+  <g transform="translate(40,10)">
+    <path d="M40 70 C80 -10,160 -10,200 70 C160 150,80 150,40 70 Z"
+          fill="url(#grad-feather)" stroke="#0b6b63" stroke-width="2" />
+    <ellipse cx="120" cy="70" rx="30" ry="18" fill="#ffd166" />
+    <circle cx="120" cy="70" r="8" fill="#042a2b" />
+  </g>
+
+  <!-- wordmark -->
+  <text x="260" y="98" font-family="Georgia, 'Noto Serif', serif"
+        font-size="36" fill="#222">natyamayuri.com</text>
+  <text x="260" y="128" font-family="system-ui, Arial, sans-serif"
+        font-size="12" fill="#666">Classical South Indian Dance</text>
+</svg>

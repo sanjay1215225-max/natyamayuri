@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 120" width="700" height="120" role="img" aria-label="natyamayuri.com wordmark">
+  <defs>
+    <linearGradient id="g3" x1="0" x2="1">
+      <stop offset="0" stop-color="#0f9b8e"/>
+      <stop offset="1" stop-color="#b24b6c"/>
+    </linearGradient>
+  </defs>
+
+  <text x="140" y="78" font-family="'Playfair Display', Georgia, serif" font-size="46" fill="#222">natyama</text>
+  <text x="340" y="78" font-family="'Playfair Display', Georgia, serif" font-size="46" fill="url(#g3)">yuri</text>
+  <text x="540" y="78" font-family="system-ui, Arial, sans-serif" font-size="14" fill="#666">.com</text>
+
+  <!-- small feather accent above the 'y' -->
+  <g transform="translate(320,10) scale(0.9)">
+    <path d="M30 40 C50 0,100 0,120 40 C100 80,50 80,30 40 Z" fill="none" stroke="url(#g3)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="75" cy="40" r="6" fill="#ffd166"/>
+  </g>
+</svg>
